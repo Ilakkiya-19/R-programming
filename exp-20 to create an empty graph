@@ -1,4 +1,3 @@
-library(graphics)
 plot.new()
-plot.new()
-plot.window(xlim = c(-10, 10), ylim = c(-5, 5))
+plot(1,type="n",xlab="",ylab="",xlim=c(0,10),ylim=c(0,10))
+
